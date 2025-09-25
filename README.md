@@ -69,6 +69,6 @@ To investigate the issue further, open the Output panel by selecting the file wh
 
 ## Contact Us
 
-We encourage all feedback. If you encounter a technical issue or have an enhancement request, create an issue here or contact MathWorks at support@mathworks.com.
+We encourage all feedback. If you encounter a technical issue or have an enhancement request, create an issue here or [contact Mathworks Support](https://www.mathworks.com/support/contact_us.html).
 
 -----------------------------------------------------------------------------------------------------------
